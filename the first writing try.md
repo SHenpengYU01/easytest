@@ -1,5 +1,5 @@
 # why I start it:
-1.I wnat to type more quickly,smoothly,and accurately.
+1.I wnat to type more quickly,smoothly,and accurately.  
 2.I want to establish **my own system of learning and living**,not just imitating all the time .
 3.I want to share something meaningful with others.
 4.I want to **connect with the fast-changing world**,instead of mere peering.
