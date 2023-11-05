@@ -15,9 +15,9 @@
 ---
 
 # what is after:
-for more information,come *[hereby]*,or *[there](https://www.zhihu.com/people/qiu-ji-xu-yu-7 "我的知乎主页")*.
+for more information,come *[here] ("我的知乎主页")*.   [there](https://www.zhihu.com/people/qiu-ji-xu-yu-7 "我的知乎主页").
 here is a picture  ![迄今完成的工作](%E6%88%AA%E5%9B%BE_20231105143745-1.png "一张简单的截图").
 
 
 
-[hereby]: https://www.zhihu.com/people/qiu-ji-xu-yu-7
+[here]: https://www.zhihu.com/people/qiu-ji-xu-yu-7
