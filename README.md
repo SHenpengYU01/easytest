@@ -15,6 +15,6 @@ _BOLD **AND** ITALICIZED_
 
 ----
 
-- a dot
-- two dots
+- a dot  
+- two dots  
 ![Alt text](/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_3DS_Terraria_image1600w.jpg,"Terraria icon")
